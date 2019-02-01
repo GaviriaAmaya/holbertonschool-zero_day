@@ -1,1 +1,2 @@
-Basic commands to use vi and vim editor. It's the default editor of Linux GNU
+Each directory reffers to different basic commands to take a better performance into a VM environment. 
+Made in Holberton School Bogota
